@@ -1,0 +1,17 @@
+:root {
+	--color-white: #fff;
+	--color-main: #262626;
+	--color-border: #D9D9D9;
+	--color-blue-7: #096DD9;
+	--color-gray-3: #F5F5F5;
+}
+
+.ant-layout,
+.ant-layout-header,
+.ant-layout-footer {
+	background-color: var(--color-white);
+}
+
+.custom-btn {
+	background-color: var(--color-main);
+}
